@@ -1,0 +1,8 @@
+# Python 3.9. Install matching torch/torchvision CUDA wheels separately.
+torch==1.13.1
+torchvision==0.14.1
+numpy==1.23.5
+Pillow==9.4.0
+ftfy==6.1.1
+regex==2021.10.23
+tqdm==4.62.3
